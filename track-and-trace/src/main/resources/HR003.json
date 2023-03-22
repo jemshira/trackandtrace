@@ -1,0 +1,454 @@
+{
+	"HR003": [
+		{
+			"excelColumnName": "Customer Name",
+			"excelColIndex": 0,
+			"excelColType": "String",
+			"entityAttribute": "customerName"
+		},
+		{
+			"excelColumnName": "Ship-From Warehouse Code",
+			"excelColIndex": 1,
+			"excelColType": "String",
+			"entityAttribute": "shipFromWarehouseCode"
+		},
+		{
+			"excelColumnName": "Ship-To Warehouse Code",
+			"excelColIndex": 2,
+			"excelColType": "String",
+			"entityAttribute": "shipToWarehouseCode1"
+		},
+		{
+			"excelColumnName": "Shipment",
+			"excelColIndex": 3,
+			"excelColType": "String",
+			"entityAttribute": "shipment"
+		},
+		{
+			"excelColumnName": "Order",
+			"excelColIndex": 4,
+			"excelColType": "String",
+			"entityAttribute": "order"
+		},
+		{
+			"excelColumnName": "Reference 1",
+			"excelColIndex": 5,
+			"excelColType": "String",
+			"entityAttribute": "referenceNo1"
+		},
+		{
+			"excelColumnName": "Reference 2",
+			"excelColIndex": 6,
+			"excelColType": "String",
+			"entityAttribute": "referenceNo2"
+		},
+		{
+			"excelColumnName": "Reference 3",
+			"excelColIndex": 7,
+			"excelColType": "String",
+			"entityAttribute": "referenceNo3"
+		},
+		{
+			"excelColumnName": "Reference 4",
+			"excelColIndex": 8,
+			"excelColType": "String",
+			"entityAttribute": "referenceNo4"
+		},
+		{
+			"excelColumnName": "Reference 5",
+			"excelColIndex": 9,
+			"excelColType": "String",
+			"entityAttribute": "referenceNo5"
+		},
+		{
+			"excelColumnName": "Reference 6",
+			"excelColIndex": 10,
+			"excelColType": "String",
+			"entityAttribute": "referenceNo6"
+		},
+		{
+			"excelColumnName": "Service Type",
+			"excelColIndex": 11,
+			"excelColType": "String",
+			"entityAttribute": "serviceType"
+		},
+		{
+			"excelColumnName": "Document Type",
+			"excelColIndex": 12,
+			"excelColType": "String",
+			"entityAttribute": "documentType"
+		},
+		{
+			"excelColumnName": "Service Level",
+			"excelColIndex": 13,
+			"excelColType": "String",
+			"entityAttribute": "serviceLevel"
+		},
+		{
+			"excelColumnName": "Status",
+			"excelColIndex": 14,
+			"excelColType": "String",
+			"entityAttribute": "status"
+		},
+		{
+			"excelColumnName": "Ship-To Warehouse Code",
+			"excelColIndex": 15,
+			"excelColType": "String",
+			"entityAttribute": "shipToWarehouseCode2"
+		},
+		{
+			"excelColumnName": "Ship To Name",
+			"excelColIndex": 16,
+			"excelColType": "String",
+			"entityAttribute": "shipToName"
+		},
+		{
+			"excelColumnName": "Ship To Address Line 1",
+			"excelColIndex": 17,
+			"excelColType": "String",
+			"entityAttribute": "shipToAddressLine1"
+		},
+		{
+			"excelColumnName": "Ship To Address Line 2",
+			"excelColIndex": 18,
+			"excelColType": "String",
+			"entityAttribute": "shipToAddressLine2"
+		},
+		{
+			"excelColumnName": "Ship To Address Line 3",
+			"excelColIndex": 19,
+			"excelColType": "String",
+			"entityAttribute": "shipToAddressLine3"
+		},
+		{
+			"excelColumnName": "Ship To Address Line 4",
+			"excelColIndex": 20,
+			"excelColType": "String",
+			"entityAttribute": "shipToAddressLine4"
+		},
+		{
+			"excelColumnName": "Ship To Address Line 5",
+			"excelColIndex": 21,
+			"excelColType": "String",
+			"entityAttribute": "shipToAddressLine5"
+		},
+		{
+			"excelColumnName": "Ship To Address Line 6",
+			"excelColIndex": 22,
+			"excelColType": "String",
+			"entityAttribute": "shipToAddressLine6"
+		},
+		{
+			"excelColumnName": "Ship To City",
+			"excelColIndex": 23,
+			"excelColType": "String",
+			"entityAttribute": "shipToCity"
+		},
+		{
+			"excelColumnName": "Ship To Zip Code",
+			"excelColIndex": 24,
+			"excelColType": "String",
+			"entityAttribute": "shipToZipCode"
+		},
+		{
+			"excelColumnName": "Ship To State",
+			"excelColIndex": 25,
+			"excelColType": "String",
+			"entityAttribute": "shipToState"
+		},
+		{
+			"excelColumnName": "Ship To Country",
+			"excelColIndex": 26,
+			"excelColType": "String",
+			"entityAttribute": "shipToCountry"
+		},
+		{
+			"excelColumnName": "Ship-To Contact Name",
+			"excelColIndex": 27,
+			"excelColType": "String",
+			"entityAttribute": "shipToContactName"
+		},
+		{
+			"excelColumnName": "Ship-To Contact Number",
+			"excelColIndex": 28,
+			"excelColType": "String",
+			"entityAttribute": "shipToContactNumber"
+		},
+		{
+			"excelColumnName": "Collect From Name",
+			"excelColIndex": 29,
+			"excelColType": "String",
+			"entityAttribute": "collectFromName"
+		},
+		{
+			"excelColumnName": "Collect From Address Info",
+			"excelColIndex": 30,
+			"excelColType": "String",
+			"entityAttribute": "collectFromAddressInfo"
+		},
+		{
+			"excelColumnName": "Collect From Country",
+			"excelColIndex": 31,
+			"excelColType": "String",
+			"entityAttribute": "collectFromCountry"
+		},
+		{
+			"excelColumnName": "Collect From Contact Name",
+			"excelColIndex": 32,
+			"excelColType": "String",
+			"entityAttribute": "collectFromContactName"
+		},
+		{
+			"excelColumnName": "Collect From Contact Number",
+			"excelColIndex": 33,
+			"excelColType": "String",
+			"entityAttribute": "collectFromContactNumber"
+		},
+		{
+			"excelColumnName": "Carrier",
+			"excelColIndex": 34,
+			"excelColType": "String",
+			"entityAttribute": "carrier"
+		},
+		{
+			"excelColumnName": "AWB",
+			"excelColIndex": 35,
+			"excelColType": "String",
+			"entityAttribute": "awb"
+		},
+		{
+			"excelColumnName": "RAWB",
+			"excelColIndex": 36,
+			"excelColType": "String",
+			"entityAttribute": "rawb"
+		},
+		{
+			"excelColumnName": "Weight",
+			"excelColIndex": 37,
+			"excelColType": "double",
+			"entityAttribute": "weight"
+		},
+		{
+			"excelColumnName": "Weight UOM",
+			"excelColIndex": 38,
+			"excelColType": "String",
+			"entityAttribute": "weightUom"
+		},
+		{
+			"excelColumnName": "Volume",
+			"excelColIndex": 39,
+			"excelColType": "long",
+			"entityAttribute": "volume"
+		},
+		{
+			"excelColumnName": "Volume UOM",
+			"excelColIndex": 40,
+			"excelColType": "String",
+			"entityAttribute": "volumeUom"
+		},
+		{
+			"excelColumnName": "Total Qty",
+			"excelColIndex": 41,
+			"excelColType": "String",
+			"entityAttribute": "totalQty"
+		},
+		{
+			"excelColumnName": "Total No. of Packages",
+			"excelColIndex": 42,
+			"excelColType": "long",
+			"entityAttribute": "totalNoOfPackages"
+		},
+		{
+			"excelColumnName": "Original ETA Datetime",
+			"excelColIndex": 43,
+			"excelColType": "Date",
+			"entityAttribute": "originalEtaDatetime"
+		},
+		{
+			"excelColumnName": "Latest ETA Datetime",
+			"excelColIndex": 44,
+			"excelColType": "Date",
+			"entityAttribute": "latestEtaDatetime"
+		},
+		{
+			"excelColumnName": "ETA Revision Reason Code",
+			"excelColIndex": 45,
+			"excelColType": "String",
+			"entityAttribute": "etaRevisionReasonCode"
+		},
+		{
+			"excelColumnName": "ETA Revision Reason Comments",
+			"excelColIndex": 46,
+			"excelColType": "String",
+			"entityAttribute": "etaRevisionReasonComments"
+		},
+		{
+			"excelColumnName": "Courier Name",
+			"excelColIndex": 47,
+			"excelColType": "String",
+			"entityAttribute": "courierName"
+		},
+		{
+			"excelColumnName": "Courier Contact Number",
+			"excelColIndex": 48,
+			"excelColType": "String",
+			"entityAttribute": "courierContactNumber"
+		},
+		{
+			"excelColumnName": "Courier Pick Up Date time",
+			"excelColIndex": 49,
+			"excelColType": "Date",
+			"entityAttribute": "courierPickUpDatetime"
+		},
+		{
+			"excelColumnName": "Actual Delivery Datetime",
+			"excelColIndex": 50,
+			"excelColType": "Date",
+			"entityAttribute": "actualDeliveryDatetime"
+		},
+		{
+			"excelColumnName": "Distance Travelled",
+			"excelColIndex": 51,
+			"excelColType": "double",
+			"entityAttribute": "distanceTravelled"
+		},
+		{
+			"excelColumnName": "POD Reason Code",
+			"excelColIndex": 52,
+			"excelColType": "String",
+			"entityAttribute": "podReasonCode"
+		},
+		{
+			"excelColumnName": "POD Reason Comments",
+			"excelColIndex": 53,
+			"excelColType": "String",
+			"entityAttribute": "podReasonComments"
+		},
+		{
+			"excelColumnName": "Signer",
+			"excelColIndex": 54,
+			"excelColType": "String",
+			"entityAttribute": "signer"
+		},
+		{
+			"excelColumnName": "Total Toll Fee Amount",
+			"excelColIndex": 55,
+			"excelColType": "double",
+			"entityAttribute": "totalTollFeeAmount"
+		},
+		{
+			"excelColumnName": "Currency",
+			"excelColIndex": 56,
+			"excelColType": "String",
+			"entityAttribute": "currency"
+		},
+		{
+			"excelColumnName": "User ID",
+			"excelColIndex": 57,
+			"excelColType": "String",
+			"entityAttribute": "userId"
+		},
+		{
+			"excelColumnName": "Shipment Creation  Date",
+			"excelColIndex": 58,
+			"excelColType": "Date",
+			"entityAttribute": "shipmentCreationDate"
+		},
+		{
+			"excelColumnName": "WMS Reference 1",
+			"excelColIndex": 59,
+			"excelColType": "String",
+			"entityAttribute": "wmsReference1"
+		},
+		{
+			"excelColumnName": "Order Creation Date",
+			"excelColIndex": 60,
+			"excelColType": "Date",
+			"entityAttribute": "orderCreationDate"
+		},
+		{
+			"excelColumnName": "Field Engineer ID",
+			"excelColIndex": 61,
+			"excelColType": "String",
+			"entityAttribute": "fieldEngineerId"
+		},
+		{
+			"excelColumnName": "POD Entry Date",
+			"excelColIndex": 62,
+			"excelColType": "Date",
+			"entityAttribute": "podEntryDate"
+		},
+		{
+			"excelColumnName": "Shipment Comments",
+			"excelColIndex": 63,
+			"excelColType": "String",
+			"entityAttribute": "shipmentComments"
+		},
+		{
+			"excelColumnName": "Late POD Entry Reason Code",
+			"excelColIndex": 64,
+			"excelColType": "String",
+			"entityAttribute": "latePodEntryReasonCode"
+		},
+		{
+			"excelColumnName": "Late POD Entry Reason Comment",
+			"excelColIndex": 65,
+			"excelColType": "String",
+			"entityAttribute": "latePodEntryReasonComment"
+		},
+		{
+			"excelColumnName": "Field Engineer Name",
+			"excelColIndex": 66,
+			"excelColType": "String",
+			"entityAttribute": "fieldEngineerName"
+		},
+		{
+			"excelColumnName": "Ready For Collection Datetime",
+			"excelColIndex": 67,
+			"excelColType": "Date",
+			"entityAttribute": "readyForCollectionDatetime"
+		},
+		{
+			"excelColumnName": "Carrier Service Level",
+			"excelColIndex": 68,
+			"excelColType": "String",
+			"entityAttribute": "carrierServiceLevel"
+		},
+		{
+			"excelColumnName": "First ETA Revision Date",
+			"excelColIndex": 69,
+			"excelColType": "Date",
+			"entityAttribute": "firstEtaRevisionDate"
+		},
+		{
+			"excelColumnName": "Shipment Pick Up Date Time",
+			"excelColIndex": 70,
+			"excelColType": "Date",
+			"entityAttribute": "shipmentPickUpDatetime"
+		},
+		{
+			"excelColumnName": "Shipment Pick Up User",
+			"excelColIndex": 71,
+			"excelColType": "String",
+			"entityAttribute": "shipmentPickUpUser"
+		},
+		{
+			"excelColumnName": "Shipment Pack Date Time",
+			"excelColIndex": 72,
+			"excelColType": "Date",
+			"entityAttribute": "shipmentPackDatetime"
+		},
+		{
+			"excelColumnName": "Shipment Dispatch Date Time",
+			"excelColIndex": 73,
+			"excelColType": "Date",
+			"entityAttribute": "shipmentDispatchDatetime"
+		},
+		{
+			"excelColumnName": "Order Type",
+			"excelColIndex": 74,
+			"excelColType": "String",
+			"entityAttribute": "orderType"
+		}
+	]
+}

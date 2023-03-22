@@ -1,0 +1,226 @@
+{
+"HR004": [
+			{
+				"excelColumnName": "Customer_Name",
+				"excelColIndex": 0,
+				"excelColType": "String",
+				"entityAttribute": "customerName"
+			},
+			{
+				"excelColumnName": "Warehouse_Code",
+				"excelColIndex": 1,
+				"excelColType": "String",
+				"entityAttribute": "warehouseCode"
+			},
+			{
+				"excelColumnName": "Country",
+				"excelColIndex": 2,
+				"excelColType": "String",
+				"entityAttribute": "country"
+			},
+			{
+				"excelColumnName": "Zone",
+				"excelColIndex": 3,
+				"excelColType": "String",
+				"entityAttribute": "zone"
+			},
+			{
+				"excelColumnName": "Bin_Location",
+				"excelColIndex": 4,
+				"excelColType": "String",
+				"entityAttribute": "binLocation"
+			},
+			{
+				"excelColumnName": "Part_Number",
+				"excelColIndex": 5,
+				"excelColType": "String",
+				"entityAttribute": "partNumber"
+			},
+			{
+				"excelColumnName": "Part_Description",
+				"excelColIndex": 6,
+				"excelColType": "String",
+				"entityAttribute": "partDescription"
+			},
+			{
+				"excelColumnName": "Product_Class",
+				"excelColIndex": 7,
+				"excelColType": "String",
+				"entityAttribute": "productClass"
+			},
+			{
+				"excelColumnName": "Inventory_Segment",
+				"excelColIndex": 8,
+				"excelColType": "String",
+				"entityAttribute": "inventorySegment"
+			},
+			{
+				"excelColumnName": "On_Hand_Qty",
+				"excelColIndex": 9,
+				"excelColType": "String",
+				"entityAttribute": "onHandQty"
+			},
+			{
+				"excelColumnName": "Inventory_Status",
+				"excelColIndex": 10,
+				"excelColType": "String",
+				"entityAttribute": "inventoryStatus"
+			},
+			{
+				"excelColumnName": "LPN_Number",
+				"excelColIndex": 11,
+				"excelColType": "String",
+				"entityAttribute": "lpnNumber"
+			},
+			{
+				"excelColumnName": "LPN Creation Date",
+				"excelColIndex": 12,
+				"excelColType": "Date",
+				"entityAttribute": "lpnCreationDate"
+			},
+			{
+				"excelColumnName": "Serial_Number",
+				"excelColIndex": 13,
+				"excelColType": "String",
+				"entityAttribute": "serialNumber"
+			},
+			{
+				"excelColumnName": "Revision_Level",
+				"excelColIndex": 14,
+				"excelColType": "Date",
+				"entityAttribute": "revisionLevel"
+			},
+			{
+				"excelColumnName": "Expiry_Date",
+				"excelColIndex": 15,
+				"excelColType": "Date",
+				"entityAttribute": "expiryDate"
+			},
+			{
+				"excelColumnName": "Batch_Number",
+				"excelColIndex": 16,
+				"excelColType": "String",
+				"entityAttribute": "batchNumber"
+			},
+			{
+				"excelColumnName": "Lot_Number",
+				"excelColIndex": 17,
+				"excelColType": "String",
+				"entityAttribute": "lotNumber"
+			},
+			{
+				"excelColumnName": "COO",
+				"excelColIndex": 18,
+				"excelColType": "String",
+				"entityAttribute": "coo"
+			},
+			{
+				"excelColumnName": "Velocity_Code",
+				"excelColIndex": 19,
+				"excelColType": "String",
+				"entityAttribute": "velocityCode"
+			},
+			{
+				"excelColumnName": "ABC Code",
+				"excelColIndex": 20,
+				"excelColType": "String",
+				"entityAttribute": "abcCode"
+			},
+			{
+				"excelColumnName": "FIFONumber",
+				"excelColIndex": 21,
+				"excelColType": "String",
+				"entityAttribute": "fifoNumber"
+			},
+			{
+				"excelColumnName": "Receipt_Date",
+				"excelColIndex": 22,
+				"excelColType": "Date",
+				"entityAttribute": "receiptDate"
+			},
+			{
+				"excelColumnName": "Receipt_number",
+				"excelColIndex": 23,
+				"excelColType": "String",
+				"entityAttribute": "receiptNumber"
+			},
+			{
+				"excelColumnName": "IB Order Reference 1",
+				"excelColIndex": 24,
+				"excelColType": "String",
+				"entityAttribute": "ibOrderReference1"
+			},
+			{
+				"excelColumnName": "IB Order Reference 2",
+				"excelColIndex": 25,
+				"excelColType": "String",
+				"entityAttribute": "ibOrderReference2"
+			},
+			{
+				"excelColumnName": "IB Order Line Price Value",
+				"excelColIndex": 26,
+				"excelColType": "double",
+				"entityAttribute": "ibOrderLinePriceValue"
+			},
+			{
+				"excelColumnName": "UOM",
+				"excelColIndex": 27,
+				"excelColType": "String",
+				"entityAttribute": "uom"
+			},
+			{
+				"excelColumnName": "Extn Hazmat Attribute1",
+				"excelColIndex": 28,
+				"excelColType": "String",
+				"entityAttribute": "extnHazmatAttribute1"
+			},
+			{
+				"excelColumnName": "Extn Hazmat Attribute2",
+				"excelColIndex": 29,
+				"excelColType": "String",
+				"entityAttribute": "extnHazmatAttribute2"
+			},
+			{
+				"excelColumnName": "Extn Hazmat PI Section",
+				"excelColIndex": 30,
+				"excelColType": "String",
+				"entityAttribute": "extnHazmatPISection"
+			},
+			{
+				"excelColumnName": "Extn UN Number",
+				"excelColIndex": 31,
+				"excelColType": "String",
+				"entityAttribute": "extnUnNumber"
+			},
+			{
+				"excelColumnName": "Extn MSDS",
+				"excelColIndex": 32,
+				"excelColType": "String",
+				"entityAttribute": "extnMsds"
+			},
+			{
+				"excelColumnName": "Extn Hazmat PI",
+				"excelColIndex": 33,
+				"excelColType": "String",
+				"entityAttribute": "extnHazmatPi"
+			},
+			{
+				"excelColumnName": "LPN Facility Status",
+				"excelColIndex": 34,
+				"excelColType": "String",
+				"entityAttribute": "lpnFacilityStatus"
+			},
+			{
+				"excelColumnName": "MANUFACTURER ITEM",
+				"excelColIndex": 35,
+				"excelColType": "String",
+				"entityAttribute": "manufacturerItem"
+			},
+			{
+				"excelColumnName": "MANUFACTURER ITEM DESC",
+				"excelColIndex": 36,
+				"excelColType": "String",
+				"entityAttribute": "manufacturerItemDesc"
+			}
+		]
+	}

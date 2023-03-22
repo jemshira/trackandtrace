@@ -1,0 +1,382 @@
+{
+	"HR001": [
+		{
+			"excelColumnName": "Customer Name",
+			"excelColIndex": 0,
+			"excelColType": "String",
+			"entityAttribute": "customerName",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Ship To Warehouse",
+			"excelColIndex": 1,
+			"excelColType": "String",
+			"entityAttribute": "shipToWarehouse",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Ship From Name",
+			"excelColIndex": 2,
+			"excelColType": "String",
+			"entityAttribute": "shipFromName",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Ship From Warehouse",
+			"excelColIndex": 3,
+			"excelColType": "String",
+			"entityAttribute": "shipFromWarehouse",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Customer Service Type",
+			"excelColIndex": 4,
+			"excelColType": "String",
+			"entityAttribute": "customerServiceType",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "DHL Service Type",
+			"excelColIndex": 5,
+			"excelColType": "String",
+			"entityAttribute": "dhlServiceType",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Order Type",
+			"excelColIndex": 6,
+			"excelColType": "String",
+			"entityAttribute": "orderType",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "SLA Type",
+			"excelColIndex": 7,
+			"excelColType": "String",
+			"entityAttribute": "slaType",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Order Creation Date",
+			"excelColIndex": 8,
+			"excelColType": "Date",
+			"entityAttribute": "orderCreationDate",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Receipt Date",
+			"excelColIndex": 9,
+			"excelColType": "Date",
+			"entityAttribute": "receiptDate",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "TAT Date time",
+			"excelColIndex": 10,
+			"excelColType": "Date",
+			"entityAttribute": "tatDatetime",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Order Number",
+			"excelColIndex": 11,
+			"excelColType": "String",
+			"entityAttribute": "orderNumber",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Reference #1",
+			"excelColIndex": 12,
+			"excelColType": "String",
+			"entityAttribute": "reference1",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Reference #2",
+			"excelColIndex": 13,
+			"excelColType": "String",
+			"entityAttribute": "reference2",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Reference #3",
+			"excelColIndex": 14,
+			"excelColType": "String",
+			"entityAttribute": "reference3",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Reference #4",
+			"excelColIndex": 15,
+			"excelColType": "String",
+			"entityAttribute": "reference4",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Reference #5",
+			"excelColIndex": 16,
+			"excelColType": "String",
+			"entityAttribute": "reference5",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Reference #6",
+			"excelColIndex": 17,
+			"excelColType": "String",
+			"entityAttribute": "reference6",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "AWB",
+			"excelColIndex": 18,
+			"excelColType": "String",
+			"entityAttribute": "awb",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Carrier",
+			"excelColIndex": 19,
+			"excelColType": "String",
+			"entityAttribute": "carrier",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Order Line Number",
+			"excelColIndex": 20,
+			"excelColType": "String",
+			"entityAttribute": "orderLineNumber",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Product Class",
+			"excelColIndex": 21,
+			"excelColType": "String",
+			"entityAttribute": "productClass",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Part Number",
+			"excelColIndex": 22,
+			"excelColType": "String",
+			"entityAttribute": "partNumber",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Expected Line Quantity",
+			"excelColIndex": 23,
+			"excelColType": "String",
+			"entityAttribute": "expectedLineQuantity",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Received Line Quantity",
+			"excelColIndex": 24,
+			"excelColType": "String",
+			"entityAttribute": "receivedLineQuantity",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "LPN Quantity",
+			"excelColIndex": 25,
+			"excelColType": "String",
+			"entityAttribute": "lpnQuantity",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "LPN Number",
+			"excelColIndex": 26,
+			"excelColType": "String",
+			"entityAttribute": "lpnNumber",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Serial Number",
+			"excelColIndex": 27,
+			"excelColType": "String",
+			"entityAttribute": "serialNumber",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Revision Level",
+			"excelColIndex": 28,
+			"excelColType": "String",
+			"entityAttribute": "revisionLevel",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Expiry Date",
+			"excelColIndex": 29,
+			"excelColType": "Date",
+			"entityAttribute": "expiryDate",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Lot Number",
+			"excelColIndex": 30,
+			"excelColType": "String",
+			"entityAttribute": "lotNumber",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Batch Number",
+			"excelColIndex": 31,
+			"excelColType": "String",
+			"entityAttribute": "batchNumber",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "COO",
+			"excelColIndex": 32,
+			"excelColType": "String",
+			"entityAttribute": "coo",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Disposition Code",
+			"excelColIndex": 33,
+			"excelColType": "String",
+			"entityAttribute": "dispositionCode",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Putaway Bin Location",
+			"excelColIndex": 34,
+			"excelColType": "String",
+			"entityAttribute": "putawayBinLocation",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Segment",
+			"excelColIndex": 35,
+			"excelColType": "String",
+			"entityAttribute": "segment",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Order Status",
+			"excelColIndex": 36,
+			"excelColType": "String",
+			"entityAttribute": "orderStatus",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Putaway Date",
+			"excelColIndex": 37,
+			"excelColType": "Date",
+			"entityAttribute": "putawayDate",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Ship From Contact Name",
+			"excelColIndex": 38,
+			"excelColType": "String",
+			"entityAttribute": "shipFromContactName",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Ship From Address",
+			"excelColIndex": 39,
+			"excelColType": "String",
+			"entityAttribute": "shipFromAddress",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Ship From City",
+			"excelColIndex": 40,
+			"excelColType": "String",
+			"entityAttribute": "shipFromCity",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Ship From Zip Code",
+			"excelColIndex": 41,
+			"excelColType": "String",
+			"entityAttribute": "shipFromZipCode",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Ship From Country",
+			"excelColIndex": 42,
+			"excelColType": "String",
+			"entityAttribute": "shipFromCountry",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Ship From Contact Phone",
+			"excelColIndex": 43,
+			"excelColType": "String",
+			"entityAttribute": "shipFromContactPhone",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Order  Line Reference",
+			"excelColIndex": 44,
+			"excelColType": "String",
+			"entityAttribute": "OrderLineReference",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Order Line Instruction",
+			"excelColIndex": 45,
+			"excelColType": "String",
+			"entityAttribute": "OrderLineInstruction",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Price Value",
+			"excelColIndex": 46,
+			"excelColType": "String",
+			"entityAttribute": "priceValue",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "UOM",
+			"excelColIndex": 47,
+			"excelColType": "String",
+			"entityAttribute": "uom",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "BILL OF ENTRY",
+			"excelColIndex": 48,
+			"excelColType": "String",
+			"entityAttribute": "billOfEntry",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Received By",
+			"excelColIndex": 49,
+			"excelColType": "String",
+			"entityAttribute": "receivedBy",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "Putaway By",
+			"excelColIndex": 50,
+			"excelColType": "String",
+			"entityAttribute": "putawayBy",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "secondary serial num",
+			"excelColIndex": 51,
+			"excelColType": "String",
+			"entityAttribute": "secondarySerialNum",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "IB Service Level",
+			"excelColIndex": 52,
+			"excelColType": "String",
+			"entityAttribute": "ibServiceLevel",
+			"enabled": "true"
+		},
+		{
+			"excelColumnName": "WMS PO",
+			"excelColIndex": 53,
+			"excelColType": "String",
+			"entityAttribute": "wmsPO",
+			"enabled": "true"
+		}
+	]
+}
